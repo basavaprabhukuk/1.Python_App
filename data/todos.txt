@@ -2,3 +2,6 @@ drink
 sleep
 cup
 eat
+mouse
+prabhu
+spects
